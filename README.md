@@ -23,6 +23,6 @@ This project implements a basic sales order processing system using Python. It s
 Clone the repository and run the Python script:
 
 ```bash
-git clone https://github.com/your-username/sales-order-processing.git
+git clone https://github.com/charangithub14/Sales_Order_Processing
 cd sales-order-processing
 python3 sales_order.py
